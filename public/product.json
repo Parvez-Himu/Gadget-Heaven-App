@@ -1,0 +1,285 @@
+[
+  {
+    "id": 1,
+    "title": "Asus VivoBook S15",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmOUFWVLwW6pANdvERrPmdQY9tLcgsCclR_Q&s",
+    "category": "Laptops",
+    "price": 749.99,
+    "description": "Asus VivoBook S15 with Intel i5 processor, 8GB RAM, and 512GB SSD.",
+    "Specification": [
+      "Intel i5 processor",
+      "8GB RAM",
+      "512GB SSD",
+      "15.6-inch FHD display"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": 2,
+    "title": "MacBook Pro M2",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSixgtoCz6Dedadm8pwdgvxmTw2rEd61_IzHw&s",
+    "category": "Laptops",
+    "price": 1199.99,
+    "description": "Apple MacBook Pro with M2 chip, 16GB RAM, and 512GB SSD.",
+    "Specification": [
+      "Apple M2 chip",
+      "16GB RAM",
+      "512GB SSD",
+      "14-inch Retina display"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": 3,
+    "title": "HP Spectre x360",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTXuAOnOqdIua_gR0UK8e3EH26w3FVBeMl2Q&s",
+    "category": "Laptops",
+    "price": 1099.99,
+    "description": "HP Spectre x360 with Intel i7 processor, 16GB RAM, and 1TB SSD.",
+    "Specification": [
+      "Intel i7 processor",
+      "16GB RAM",
+      "1TB SSD",
+      "13.3-inch FHD touchscreen"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "title": "Logitech MX Keys",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEcnj0p2yznBcwmn6WIaQSVB8FChjSgqX6Fw&s",
+    "category": "Keyboards",
+    "price": 99.99,
+    "description": "Logitech MX Keys Advanced Wireless Illuminated Keyboard.",
+    "Specification": [
+      "Wireless connectivity",
+      "Backlit keys",
+      "USB-C rechargeable",
+      "Compatible with multiple devices"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "title": "Corsair K95 RGB Platinum",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9cy-_QzmWJG9YjfK5-tJsRPreCVG6yjSIgQ&s",
+    "category": "Keyboards",
+    "price": 199.99,
+    "description": "Corsair K95 RGB Platinum Mechanical Gaming Keyboard with Cherry MX Speed switches.",
+    "Specification": [
+      "Cherry MX Speed switches",
+      "RGB backlighting",
+      "6 programmable macro keys",
+      "Aircraft-grade aluminum frame"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "title": "Razer BlackWidow V3 Pro",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOplBBVI-iJPgJxeGsBj_t1nol840VsBWepw&s ",
+    "category": "Keyboards",
+    "price": 229.99,
+    "description": "Razer BlackWidow V3 Pro Wireless Mechanical Gaming Keyboard.",
+    "Specification": [
+      "Razer Green mechanical switches",
+      "RGB Chroma backlighting",
+      "Detachable wrist rest",
+      "Multi-device connectivity"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "title": "Sennheiser Momentum 4",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReO4WDir_SFUgsU8fHttefwFXsWv5547qDdA&s",
+    "category": "Headphones",
+    "price": 329.99,
+    "description": "Sennheiser Momentum 4 wireless noise-canceling headphones.",
+    "Specification": [
+      "Noise cancellation",
+      "Bluetooth",
+      "30 hours battery life"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": 8,
+    "title": "Bose Noise Cancelling 700",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCB8uIILS6Ca0FWQLkdx1KXhe0XivdCS1Tew&s",
+    "category": "Headphones",
+    "price": 379.99,
+    "description": "Bose Noise Cancelling 700 with 20-hour battery life and sleek design.",
+    "Specification": [
+      "Noise cancellation",
+      "20 hours battery life",
+      "Touch controls"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "title": "Sony WH-1000XM4",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHe5wimG80sIozqFDEfIP00dyKoDkiNX4OhQ&s",
+    "category": "Headphones",
+    "price": 349.99,
+    "description": "Sony WH-1000XM4 Wireless Noise-Canceling Over-Ear Headphones with up to 30 hours of battery life.",
+    "Specification": [
+      "Industry-leading noise cancellation",
+      "30 hours battery life",
+      "Touch sensor controls",
+      "Wireless Bluetooth connectivity"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "title": "OnePlus 9 Pro",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbTsOD9lshSQQlxo4tUAK1eDOYZpzqQM0bqA&s",
+    "category": "Smartphones",
+    "price": 699.99,
+    "description": "OnePlus 9 Pro with 128GB storage, 12GB RAM, and 48MP camera.",
+    "Specification": [
+      "128GB storage",
+      "12GB RAM",
+      "6.7-inch AMOLED display"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "title": "Google Pixel 6",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpz7RKQW694wN2Ym3r87fMvfn2dimbWU8TZg&s",
+    "category": "Smartphones",
+    "price": 649.99,
+    "description": "Google Pixel 6 with 128GB storage and 50MP main camera.",
+    "Specification": [
+      "128GB storage",
+      "50MP main camera",
+      "6.4-inch OLED display"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 12,
+    "title": "iPhone 16 Pro Max",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4RaiT2uozFj5Lx6apA1JbVCyr63beIYwrg&s",
+    "category": "Smartphones",
+    "price": 1299.99,
+    "description": "iPhone 16 Pro Max with 256GB storage, A18 Bionic chip, and a triple-camera system.",
+    "Specification": [
+      "256GB storage",
+      "A18 Bionic chip",
+      "48MP triple-camera system",
+      "6.7-inch ProMotion OLED display",
+      "Ceramic Shield front cover"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": 13,
+    "title": "Garmin Venu 2",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZaEEvyZwbAbX83Je5kVVOOAH8QcMmS78xwA&s",
+    "category": "Smartwatches",
+    "price": 299.99,
+    "description": "Garmin Venu 2 with advanced fitness tracking and GPS.",
+    "Specification": [
+      "Health monitoring",
+      "GPS",
+      "1.3-inch AMOLED display"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "title": "Fitbit Sense 2",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyYrfIzYhRs4FsdPku2tB4LEalPEMiVOVipQ&s",
+    "category": "Smartwatches",
+    "price": 249.99,
+    "description": "Fitbit Sense 2 with stress management and ECG monitor.",
+    "Specification": [
+      "ECG monitor",
+      "Stress management",
+      "24-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 15,
+    "title": "Apple Watch Series 9",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNgkMu7EM-Po6WaiTiUACfiQ8aCtKxBShKXA&s",
+    "category": "Smartwatches",
+    "price": 399.99,
+    "description": "Apple Watch Series 9 with advanced health monitoring, always-on display, and up to 18 hours of battery life.",
+    "Specification": [
+      "Blood oxygen sensor",
+      "ECG app",
+      "Always-on Retina display",
+      "18-hour battery life",
+      "Water-resistant up to 50 meters"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 16,
+    "title": "Lenovo Tab P11 Pro",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT58MozcSG3IXwRWvh_k1tl8suH0Kgg-HdAhw&s",
+    "category": "Tablets",
+    "price": 499.99,
+    "description": "Lenovo Tab P11 Pro with 128GB storage and 11.5-inch OLED display.",
+    "Specification": [
+      "128GB storage",
+      "11.5-inch OLED display",
+      "Keyboard support"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 17,
+    "title": "Microsoft Surface Go 3",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFaX5jJI-_AMTKOzI1WyTmQaChe5acN6TOsw&s",
+    "category": "Tablets",
+    "price": 529.99,
+    "description": "Microsoft Surface Go 3 with 128GB storage and Intel Pentium Gold.",
+    "Specification": [
+      "128GB storage",
+      "10.5-inch PixelSense display",
+      "Intel Pentium Gold processor"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "id": 18,
+    "title": "Cooler Master Hyper 212 RGB",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwjLDoFc8frNp0_bIGuNjxBUUXuKR7Kwq4nA&s",
+    "category": "Other",
+    "price": 49.99,
+    "description": "Cooler Master Hyper 212 RGB CPU air cooler with 4 heat pipes and customizable RGB lighting.",
+    "Specification": [
+      "4 heat pipes with direct contact",
+      "120mm RGB fan",
+      "Compatible with Intel and AMD sockets",
+      "Low-noise operation",
+      "Easy installation"
+    ],
+    "availability": true,
+    "rating": 4.7
+  }
+]
